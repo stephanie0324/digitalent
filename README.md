@@ -54,4 +54,4 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 # Reference
 
 * 2019 Genomic Epidemiology Workshop
-* [Applied Computational Genomics Course at UU: Spring 2020](https://github.com/quinlan-lab/applied-computational-genomics)
+* Applied Computational Genomics Course at UU

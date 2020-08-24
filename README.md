@@ -10,7 +10,7 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 # Course lecture slides
 
 * Course overview and Introduction to Linux
-* Intruduction to NGS Technologies 
+* [Intruduction to NGS Technologies](https://drive.google.com/file/d/1u8d6LMQPdOwSFaGVGNuHVRQh7q-oV9EN/view?usp=sharing) 
 * NGS Data Format and Analysis Flow
 * NGS Alignment
 * NGS Variant Calling (Germline/Somatic)
